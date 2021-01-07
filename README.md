@@ -9,7 +9,7 @@
 ## 扫码进群技术交流
 - 个人微信(备注茅台)：`mysoftbook`
 
-![](https://oscimg.oschina.net/oscnet/up-539a791c98df445d9bebb75c24be17b0b0c.png)
+![](https://oscimg.oschina.net/oscnet/up-c7ae7c08a1c6ec18d523f2277178c1b40b3.JPEG)
 
 ## 优化内容
 
