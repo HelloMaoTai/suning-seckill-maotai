@@ -1,4 +1,4 @@
-# TaoBao_Seckill
+# SuNing_Seckill
 请安装保证Python版本大于等于3.6
 
 ## 关注公众号观看配置视频
