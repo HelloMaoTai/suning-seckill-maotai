@@ -2,14 +2,14 @@
 请安装保证Python版本大于等于3.6
 
 ## 关注公众号观看配置视频
-- 公众号：《Python数据结构》
+- 公众号：《自由之书》
 
 ![](https://oscimg.oschina.net/oscnet/up-1613261719ac0ea1a823c8a7caedb62a507.JPEG)
 
 ## 扫码进群技术交流
 - 个人微信(备注脚本)：`mysoftbook`
 
-![](https://oscimg.oschina.net/oscnet/up-c7ae7c08a1c6ec18d523f2277178c1b40b3.JPEG)
+![](https://oscimg.oschina.net/oscnet/up-a7f77befd91c20a6b949117567150e4a143.JPEG)
 
 ## 优化内容
 
